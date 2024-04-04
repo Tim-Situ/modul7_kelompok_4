@@ -11,5 +11,10 @@ internal class Program
 
         TeamMembers1302223134 team1302223134 = new TeamMembers1302223134();
         team1302223134.ReadJSON();
+
+        Console.WriteLine();
+
+        GlossaryItem1302223134 glossary1302223134 = new GlossaryItem1302223134();
+        glossary1302223134.ReadJSON();
     }
 }
