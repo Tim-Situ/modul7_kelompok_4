@@ -34,5 +34,20 @@ internal class Program
         GlossaryItem1302223127 glossaryItem = new GlossaryItem1302223127();
         glossaryItem.ReadJSON();
 
+        Console.WriteLine("");
+
+        // haulul
+        DataMahasiswa1302223007 mhs1302223007 = new DataMahasiswa1302223007();
+        mhs1302223007.ReadJSON();
+
+        Console.WriteLine("");
+
+        TeamMembers1302223007 team1302223007 = new TeamMembers1302223007();
+        team1302223007.ReadJSON();
+
+        Console.WriteLine("");
+
+        GlossaryItem1302223007 g1302223007 = new GlossaryItem1302223007();
+        g1302223007.ReadJSON();
     }
 }

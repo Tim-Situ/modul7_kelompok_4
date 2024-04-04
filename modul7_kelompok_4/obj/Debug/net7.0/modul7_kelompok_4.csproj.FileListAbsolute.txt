@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4
 /Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.deps.json
 /Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.runtimeconfig.json
@@ -13,6 +14,8 @@
 /Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.pdb
 /Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.genruntimeconfig.cache
 /Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/ref/modul7_kelompok_4.dll
+=======
+>>>>>>> e03c051a119bef5bf29d68c2f26cfe5101ac0b2e
 /Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4
 /Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.deps.json
 /Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.runtimeconfig.json
