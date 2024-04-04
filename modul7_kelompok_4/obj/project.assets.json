@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/haululazkiyaa/.nuget/packages/": {}
+    "/Users/fauzeinmulyawarman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj",
+      "projectUniqueName": "/Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj",
       "projectName": "modul7_kelompok_4",
-      "projectPath": "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj",
-      "packagesPath": "/Users/haululazkiyaa/.nuget/packages/",
-      "outputPath": "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/",
+      "projectPath": "/Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj",
+      "packagesPath": "/Users/fauzeinmulyawarman/.nuget/packages/",
+      "outputPath": "/Users/fauzeinmulyawarman/Library/CloudStorage/OneDrive-TelkomUniversity/Perkuliahan/Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 7/modul7_kelompok_4/modul7_kelompok_4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/haululazkiyaa/.nuget/NuGet/NuGet.Config"
+        "/Users/fauzeinmulyawarman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

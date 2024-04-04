@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+       "firstName": "Fauzein Mulya",
+       "lastName": "Warman",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223127"
+    },
+    {
+       "firstName": "Muhammad Dias",
+       "lastName": "Adani",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223134"
+    },
+    {
+      "firstName": "Muhammad Haulul",
+      "lastName": "Azkiyaa",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223007"
+    },
+    {
+      "firstName": "Iksan Oktav",
+      "lastName": "Risandy",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223042"
+    },
+    {
+      "firstName": "Muhammad Nur",
+      "lastName": "Shodiq",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223054"
+    },
+    {
+      "firstName": "Muhammad Fathan",
+      "lastName": "Akram",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223026"
+    }
+  ]
+}
