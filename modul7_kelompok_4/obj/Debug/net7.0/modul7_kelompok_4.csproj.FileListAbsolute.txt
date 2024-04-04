@@ -1,0 +1,15 @@
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.deps.json
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.runtimeconfig.json
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.dll
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/bin/Debug/net7.0/modul7_kelompok_4.pdb
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.csproj.AssemblyReference.cache
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.AssemblyInfoInputs.cache
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.AssemblyInfo.cs
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.csproj.CoreCompileInputs.cache
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.dll
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/refint/modul7_kelompok_4.dll
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.pdb
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/modul7_kelompok_4.genruntimeconfig.cache
+/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/Debug/net7.0/ref/modul7_kelompok_4.dll
