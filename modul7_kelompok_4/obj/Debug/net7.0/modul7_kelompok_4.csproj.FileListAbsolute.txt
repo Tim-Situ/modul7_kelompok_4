@@ -1,0 +1,15 @@
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.AssemblyInfoInputs.cache
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.AssemblyInfo.cs
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.csproj.CoreCompileInputs.cache
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.sourcelink.json
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net7.0\modul7_kelompok_4.exe
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net7.0\modul7_kelompok_4.deps.json
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net7.0\modul7_kelompok_4.runtimeconfig.json
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net7.0\modul7_kelompok_4.dll
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net7.0\modul7_kelompok_4.pdb
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.dll
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\refint\modul7_kelompok_4.dll
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.pdb
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\modul7_kelompok_4.genruntimeconfig.cache
+C:\Users\iksan\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net7.0\ref\modul7_kelompok_4.dll

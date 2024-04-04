@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("modul7_kelompok_4")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe81bbc79f29c49f420f2b8dcbb2b9c9a040298e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("modul7_kelompok_4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("modul7_kelompok_4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
