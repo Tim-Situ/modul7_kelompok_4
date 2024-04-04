@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Fauzein Mulya",
+       "lastName": "Warman",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223127"
+    },
+    {
+       "firstName": "Muhammad Dias",
+       "lastName": "Adani",
+       "gender": "male",
+       "age": 20,
+       "nim": "5678568567"
+    },
+    {
+       "firstName": "Muhammad Haulul",
+       "lastName": "Azkiyaa",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223007"
+    }
+  ]
+}
