@@ -22,15 +22,13 @@ namespace modul7_kelompok_4
             // membaca dari json
             string jsonString = File.ReadAllText(filepath);
             // deserialize dari json menjadi object
-            TeamMembers1302223007 mhs = JsonSerializer.Deserialize<TeamMembers1302223007>(jsonString);
+            TeamMembers1302223007 team = JsonSerializer.Deserialize<TeamMembers1302223007>(jsonString);
 
             Console.WriteLine("Team member list: ");
-            int i = 0;
-            foreach (var member in mhs.members)
+            foreach (var member in team.members)
             {
                 Console.WriteLine(member.nim + " " + member.firstName + " " + member.lastName + " " +
                     "(" + member.age + " " + member.gender + ")");
-                i++;
             }
         }
     }
