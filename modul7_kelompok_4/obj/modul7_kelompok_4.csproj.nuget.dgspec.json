@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Telkom University\\LMS\\Semester 4\\Praktikum\\KPL\\Week 7 praktikum online\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj": {}
+    "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj": {}
   },
   "projects": {
-    "D:\\Telkom University\\LMS\\Semester 4\\Praktikum\\KPL\\Week 7 praktikum online\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj": {
+    "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Telkom University\\LMS\\Semester 4\\Praktikum\\KPL\\Week 7 praktikum online\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj",
+        "projectUniqueName": "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj",
         "projectName": "modul7_kelompok_4",
-        "projectPath": "D:\\Telkom University\\LMS\\Semester 4\\Praktikum\\KPL\\Week 7 praktikum online\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj",
-        "packagesPath": "C:\\Users\\ZEPHYRUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Telkom University\\LMS\\Semester 4\\Praktikum\\KPL\\Week 7 praktikum online\\modul7_kelompok_4\\modul7_kelompok_4\\obj\\",
+        "projectPath": "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/modul7_kelompok_4.csproj",
+        "packagesPath": "/Users/haululazkiyaa/.nuget/packages/",
+        "outputPath": "/Users/haululazkiyaa/Downloads/jurnal/modul7_kelompok_4/modul7_kelompok_4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ZEPHYRUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/haululazkiyaa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     }
